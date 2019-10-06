@@ -262,82 +262,29 @@ changeconfig true
 #feed 3h http://proxyfeed.example.com/proxied.rss http_proxy=http://localhost:1234/
 #feed 3h http://dupsfeed.example.com/duplicated.rss allowduplicates=true
 
-feed 5h http://feeds.feedburner.com/cgpgrey/PJyo
-feed 5h http://feeds.feedburner.com/LifeToHerYears
-feed 5h http://feeds.feedburner.com/littlebigdetails
-feed 5h http://rss.timeanddate.com/news-time.rss
-feed 5h http://sarahcandersen.com/rss
-feed 5h http://www.smbc-comics.com/rss.php
-feed 5h https://feeds.feedburner.com/codinghorror
-feed 5h https://neovim.io/news.xml
-feed 5h https://openlp.org/rss.xml
-feed 5h https://what-if.xkcd.com/feed.atom
-feed 5h https://xkcd.com/atom.xml
-feed 5h https://blog.fastmail.com/feed/
-feed 5h https://www.reddit.com/r/oilshell/.rss
-feed 5h https://www.archlinux.org/feeds/news/
-feed 5h https://www.destroyallsoftware.com/screencasts/feed
-feed 5h https://www.destroyallsoftware.com/blog/index.xml
+# Comics
+feed 3h http://sarahcandersen.com/rss
+feed 3h http://www.threewordphrase.com/rss.xml
+feed 3h http://hyperboleandahalf.blogspot.com/feeds/posts/default
+feed 3h https://www.smbc-comics.com/comic/rss
+feed 3h http://phdcomics.com/gradfeed.php
+feed 3h https://xkcd.com/atom.xml
+feed 3h https://pbfcomics.com/feed/
+feed 3h http://www.mezzacotta.net/postcard/rss.xml
+feed 3h https://readms.net/rss
+feed 3h http://www.jspowerhour.com/comics.rss
+feed 3h http://www.neversatisfiedcomic.com/comic/rss
+feed 3h https://www.oglaf.com/feeds/rss
+feed 3h http://mistakes.ryanestrada.com/comic/rss
 
-# colinfurze
-feed 5h https://www.youtube.com/feeds/videos.xml?channel_id=UCp68_FLety0O-n9QU6phsgw
-# suckerpinch
-feed 5h https://www.youtube.com/feeds/videos.xml?channel_id=UC3azLjQuz9s5qk76KEXaTvA
-# The Slow Mo Guys 2
-feed 5h https://www.youtube.com/feeds/videos.xml?channel_id=UCgC4Nn0rqqdeqACnzaIMo_Q
-# standupmaths
-feed 5h https://www.youtube.com/feeds/videos.xml?channel_id=UCSju5G2aFaWMqn-_0YBtq5A
-# Steve Mould - Science Videos
-feed 5h https://www.youtube.com/feeds/videos.xml?channel_id=UCEIwxahdLz7bap-VDs9h35A
-# Numberphile
-feed 5h https://www.youtube.com/feeds/videos.xml?channel_id=UCoxcjq-8xIDTYp3uz647V5A
-# Numberphile2
-feed 5h https://www.youtube.com/feeds/videos.xml?channel_id=UCyp1gCHZJU_fGWFf2rtMkCg
-# Periodic Videos
-feed 5h https://www.youtube.com/feeds/videos.xml?channel_id=UCtESv1e7ntJaLJYKIO1FoYw
-# Tom Scott
-feed 5h https://www.youtube.com/feeds/videos.xml?channel_id=UCBa659QWEk1AI4Tg--mrJ2A
-# Vsauce
-feed 5h https://www.youtube.com/feeds/videos.xml?channel_id=UC6nSFpj9HTCZ5t-N3Rm3-HA
-# TomSka
-feed 5h https://www.youtube.com/feeds/videos.xml?channel_id=UCOYWgypDktXdb-HfZnSMK6A
-# David Mitchell's Soapbox
-feed 5h https://www.youtube.com/feeds/videos.xml?channel_id=UCtxNu_ADBcbujQh-s9OBFvQ
-# Computerphile
-feed 5h https://www.youtube.com/feeds/videos.xml?channel_id=UC9-y-6csu5WGm29I7JiwpnA
-# 2veritasium
-feed 5h https://www.youtube.com/feeds/videos.xml?channel_id=UC2LZO6swZ9SLUEOks3WnsfA
-# MinuteEarth
-feed 5h https://www.youtube.com/feeds/videos.xml?channel_id=UCeiYXex_fwgYDonaTcSIk6w
-# Mark Rober
-feed 5h https://www.youtube.com/feeds/videos.xml?channel_id=UCY1kMZp36IQSyNx_9h4mpCg
-# The Slow Mo Guys
-feed 5h https://www.youtube.com/feeds/videos.xml?channel_id=UCUK0HBIBWgM2c4vsPhkYY4w
-# engineerguy
-feed 5h https://www.youtube.com/feeds/videos.xml?channel_id=UC2bkHVIDjXS7sgrgjFtzOXQ
-# Vihart
-feed 5h https://www.youtube.com/feeds/videos.xml?channel_id=UCOGeU-1Fig3rrDjhm9Zs_wg
-# collectivecadenza
-feed 5h https://www.youtube.com/feeds/videos.xml?channel_id=UCzdbnf-pIJh-Qp6fdSb5ezw
-# Veritasium
-feed 5h https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA
-# vlogbrothers
-feed 5h https://www.youtube.com/feeds/videos.xml?channel_id=UCGaVdbSav8xWuFWTadK6loA
-# CGP Grey
-feed 5h https://www.youtube.com/feeds/videos.xml?channel_id=UC2C_jShtL725hvbm1arSV9w
-# minutephysics
-feed 5h https://www.youtube.com/feeds/videos.xml?channel_id=UCUHW94eEFW7hkUMVaZz4eDg
-# SmarterEveryDay
-feed 5h https://www.youtube.com/feeds/videos.xml?channel_id=UC6107grRI4m0o2-emgoDnAA
-# SmarterEveryDay2
-feed 5h https://www.youtube.com/feeds/videos.xml?channel_id=UC8VkNBOwvsTlFjoSnNSMmxw
-# Karl Beadle
-feed 5h https://www.youtube.com/feeds/videos.xml?channel_id=UCdY96xWRKKqe1sokOg2gC1g
-# Xidnaf
-feed 5h https://www.youtube.com/feeds/videos.xml?channel_id=UCByBOwwOU5tKddYpsrHiUUw
-# Applied Science
-feed 5h https://www.youtube.com/feeds/videos.xml?channel_id=UCivA7_KLKWo43tFcCkFvydw
-# Lessons from the Screenplay
-feed 5h https://www.youtube.com/feeds/videos.xml?channel_id=UCErSSa3CaP_GJxmFpdjG9Jw
-# 3Blue1Brown
-feed 5h https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw
+# "Educational"
+feed 3h https://what-if.xkcd.com/feed.atom
+
+# Linux News
+feed 3h https://www.archlinux.org/feeds/news/
+
+# Podcasts
+feed 3h http://adventurezone.libsyn.com/rss
+
+# Unsorted
+
