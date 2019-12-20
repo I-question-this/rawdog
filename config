@@ -270,13 +270,14 @@ feed 3h https://www.smbc-comics.com/comic/rss
 feed 3h http://phdcomics.com/gradfeed.php
 feed 3h https://xkcd.com/atom.xml
 feed 3h https://pbfcomics.com/feed/
-feed 3h http://www.mezzacotta.net/postcard/rss.xml
+feed 3h https://www.mezzacotta.net/postcard/rss.xml
 feed 3h https://readms.net/rss
 feed 3h http://www.jspowerhour.com/comics.rss
 feed 3h http://www.neversatisfiedcomic.com/comic/rss
 feed 3h https://www.oglaf.com/feeds/rss
 feed 3h http://mistakes.ryanestrada.com/comic/rss
 feed 3h http://www.aghoststorycomic.com/comic/rss
+feed 3h https://www.whompcomic.com/rss.php
 
 # "Educational"
 feed 3h https://what-if.xkcd.com/feed.atom
