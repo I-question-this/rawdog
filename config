@@ -277,13 +277,18 @@ feed 3h http://www.neversatisfiedcomic.com/comic/rss
 feed 3h https://www.oglaf.com/feeds/rss
 feed 3h http://mistakes.ryanestrada.com/comic/rss
 feed 3h http://www.aghoststorycomic.com/comic/rss
-feed 3h https://www.whompcomic.com/rss.php
+feed 3h https://www.whompcomic.com/comic/rss
 
 # "Educational"
 feed 3h https://what-if.xkcd.com/feed.atom
 
 # Linux News
 feed 3h https://www.archlinux.org/feeds/news/
+feed 3h https://www.linuxjournal.com/node/feed
+
+# Security
+feed 3h https://doar-e.github.io/feeds/atom.xml
+feed 3h https://rss.packetstormsecurity.com/
 
 # Podcasts
 feed 3h http://adventurezone.libsyn.com/rss
