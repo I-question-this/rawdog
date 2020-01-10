@@ -263,39 +263,39 @@ changeconfig true
 #feed 3h http://dupsfeed.example.com/duplicated.rss allowduplicates=true
 
 # Comics
-feed 3h http://sarahcandersen.com/rss
-feed 3h http://www.threewordphrase.com/rss.xml
-feed 3h http://hyperboleandahalf.blogspot.com/feeds/posts/default
-feed 3h https://www.smbc-comics.com/comic/rss
-feed 3h http://phdcomics.com/gradfeed.php
-feed 3h https://xkcd.com/atom.xml
-feed 3h https://pbfcomics.com/feed/
-feed 3h https://www.mezzacotta.net/postcard/rss.xml
-feed 3h https://readms.net/rss
-feed 3h http://www.jspowerhour.com/comics.rss
-feed 3h http://www.neversatisfiedcomic.com/comic/rss
-feed 3h https://www.oglaf.com/feeds/rss
-feed 3h http://mistakes.ryanestrada.com/comic/rss
-feed 3h http://www.aghoststorycomic.com/comic/rss
-feed 3h https://www.whompcomic.com/comic/rss
+feed 3h http://sarahcandersen.com/rss define_group=Web_Comic
+feed 3h http://www.threewordphrase.com/rss.xml define_group=Web_Comic
+feed 3h http://hyperboleandahalf.blogspot.com/feeds/posts/default define_group=Web_Comic
+feed 3h https://www.smbc-comics.com/comic/rss define_group=Web_Comic
+feed 3h http://phdcomics.com/gradfeed.php define_group=Web_Comic
+feed 3h https://xkcd.com/atom.xml define_group=Web_Comic
+feed 3h https://pbfcomics.com/feed/ define_group=Web_Comic
+feed 3h https://www.mezzacotta.net/postcard/rss.xml define_group=Web_Comic
+feed 3h https://readms.net/rss define_group=Web_Comic
+feed 3h http://www.jspowerhour.com/comics.rss define_group=Web_Comic
+feed 3h http://www.neversatisfiedcomic.com/comic/rss define_group=Web_Comic
+feed 3h https://www.oglaf.com/feeds/rss define_group=Web_Comic
+feed 3h http://mistakes.ryanestrada.com/comic/rss define_group=Web_Comic
+feed 3h http://www.aghoststorycomic.com/comic/rss define_group=Web_Comic
+feed 3h https://www.whompcomic.com/comic/rss define_group=Web_Comic
 
 # "Educational"
-feed 3h https://what-if.xkcd.com/feed.atom
+feed 3h https://what-if.xkcd.com/feed.atom define_group=Educational
 
-# Linux News
-feed 3h https://www.archlinux.org/feeds/news/
-feed 3h https://www.linuxjournal.com/node/feed
+# Linux
+feed 3h https://www.archlinux.org/feeds/news/ define_groups=Linux
+feed 3h https://www.linuxjournal.com/node/feed define_groups=Linux
 
 # Security
-feed 3h https://doar-e.github.io/feeds/atom.xml
-feed 3h https://rss.packetstormsecurity.com/
+feed 3h https://doar-e.github.io/feeds/atom.xml define_group=Security
+feed 3h https://rss.packetstormsecurity.com/ define_group=Security
 
 # Podcasts
-feed 3h http://adventurezone.libsyn.com/rss
-feed 3h https://feeds.simplecast.com/67OBhwoP
+feed 3h http://adventurezone.libsyn.com/rss define_group=Podcast
+feed 3h https://feeds.simplecast.com/67OBhwoP define_group=Podcast
 
 # Youtube Channels
-feed 3h https://www.youtube.com/feeds/videos.xml?channel_id=UC6k_GngLDtxbkUlZOq6_h5g
+feed 3h https://www.youtube.com/feeds/videos.xml?channel_id=UC6k_GngLDtxbkUlZOq6_h5g define_group=Youtube
 
 # Unsorted
 
