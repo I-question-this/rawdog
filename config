@@ -278,6 +278,7 @@ feed 3h https://www.oglaf.com/feeds/rss define_group=Web_Comic
 feed 3h http://mistakes.ryanestrada.com/comic/rss define_group=Web_Comic
 feed 3h http://www.aghoststorycomic.com/comic/rss define_group=Web_Comic
 feed 3h https://www.whompcomic.com/comic/rss define_group=Web_Comic
+feed 3h http://www.cuttimecomic.com/comic/rss define_group=Web_Comic
 
 # "Educational"
 feed 3h https://what-if.xkcd.com/feed.atom define_group=Educational
