@@ -3,3 +3,4 @@ state.lock
 *.pyc
 output.html
 feeds/
+local-cache/
