@@ -287,9 +287,12 @@ feed 3h https://what-if.xkcd.com/feed.atom define_group=Educational
 feed 3h https://www.archlinux.org/feeds/news/ define_groups=Linux
 feed 3h https://www.linuxjournal.com/node/feed define_groups=Linux
 
-# Security
-feed 3h https://doar-e.github.io/feeds/atom.xml define_group=Security
-feed 3h https://rss.packetstormsecurity.com/ define_group=Security
+# Cyber Security
+feed 3h https://rss.packetstormsecurity.com/ define_group=Cyber_Security
+feed 3h https://www.megabeets.net/feed/ define_group=Cyber_Security
+
+# Reverse_Engineering
+feed 3h https://doar-e.github.io/feeds/atom.xml define_group=Reverse_Engineering
 
 # Podcasts
 feed 3h http://adventurezone.libsyn.com/rss define_group=Podcast
