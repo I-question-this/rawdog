@@ -271,15 +271,17 @@ feed 3h http://phdcomics.com/gradfeed.php define_group=Web_Comic
 feed 3h https://xkcd.com/atom.xml define_group=Web_Comic
 feed 3h https://explainxkcd.com/rss.xml define_group=Web_Comic
 feed 3h https://pbfcomics.com/feed/ define_group=Web_Comic
+feed 3h https://pixietrixcomix.com/pixie-trix-comix/rss
 feed 3h https://www.mezzacotta.net/postcard/rss.xml define_group=Web_Comic
 feed 3h http://www.jspowerhour.com/comics.rss define_group=Web_Comic
 feed 3h http://www.neversatisfiedcomic.com/comic/rss define_group=Web_Comic
 feed 3h https://www.oglaf.com/feeds/rss define_group=Web_Comic
 feed 3h http://mistakes.ryanestrada.com/comic/rss define_group=Web_Comic
-feed 3h http://www.aghoststorycomic.com/comic/rss define_group=Web_Comic
+feed 3h https://www.aghoststorycomic.com/comic/rss define_group=Web_Comic
 feed 3h https://www.whompcomic.com/comic/rss define_group=Web_Comic
-feed 3h http://www.cuttimecomic.com/comic/rss define_group=Web_Comic
+feed 3h https://cuttimecomic.com/comic/rss define_group=Web_Comic
 feed 3h https://www.vgcats.com/super/se.rdf.xml define_group=Web_Comic
+feed 3h https://w7.one-punchman.com/feed
 
 # "Educational"
 feed 3h https://what-if.xkcd.com/feed.atom define_group=Educational
@@ -294,9 +296,11 @@ feed 3h https://www.megabeets.net/feed/ define_group=Cyber_Security
 
 # Reverse_Engineering
 feed 3h https://doar-e.github.io/feeds/atom.xml define_group=Reverse_Engineering
+feed 3h https://dustri.org/b/rss.xml
+feed 3h https://www.airs.com/blog/feed/atom
 
 # Podcasts
-feed 3h http://adventurezone.libsyn.com/rss define_group=Podcast
+feed 3h https://feeds.simplecast.com/cYQVc__c define_group=Podcast
 feed 3h https://feeds.simplecast.com/67OBhwoP define_group=Podcast
 
 # Youtube Channels
