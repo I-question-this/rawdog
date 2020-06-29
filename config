@@ -25,7 +25,7 @@ splitstate true
 
 # The maximum number of articles to show on the generated page.
 # Set this to 0 for no limit.
-maxarticles 40
+maxarticles 0
 
 # The maximum age of articles to show on the generated page.
 # Set this to 0 for no limit.
