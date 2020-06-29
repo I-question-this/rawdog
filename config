@@ -273,15 +273,15 @@ feed 3h https://explainxkcd.com/rss.xml define_group=Web_Comic
 feed 3h https://pbfcomics.com/feed/ define_group=Web_Comic
 feed 3h https://pixietrixcomix.com/pixie-trix-comix/rss
 feed 3h https://www.mezzacotta.net/postcard/rss.xml define_group=Web_Comic
-feed 3h http://www.jspowerhour.com/comics.rss define_group=Web_Comic
-feed 3h http://www.neversatisfiedcomic.com/comic/rss define_group=Web_Comic
+feed 3h https://www.jspowerhour.com/comics.rss define_group=Web_Comic
+feed 3h https://www.neversatisfiedcomic.com/comic/rss define_group=Web_Comic
 feed 3h https://www.oglaf.com/feeds/rss define_group=Web_Comic
 feed 3h http://mistakes.ryanestrada.com/comic/rss define_group=Web_Comic
 feed 3h https://www.aghoststorycomic.com/comic/rss define_group=Web_Comic
 feed 3h https://www.whompcomic.com/comic/rss define_group=Web_Comic
 feed 3h https://www.cuttimecomic.com/comic/rss define_group=Web_Comic
 feed 3h https://www.vgcats.com/super/se.rdf.xml define_group=Web_Comic
-feed 3h https://w7.one-punchman.com/feed
+feed 3h https://w18.one-punchman.com/feed
 
 # "Educational"
 feed 3h https://what-if.xkcd.com/feed.atom define_group=Educational
