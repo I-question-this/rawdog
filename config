@@ -29,7 +29,7 @@ maxarticles 0
 
 # The maximum age of articles to show on the generated page.
 # Set this to 0 for no limit.
-maxage 4w
+maxage 3d
 
 # The age after which articles will be discarded if they do not appear
 # in a feed. Set this to a larger value if you want your rawdog output
@@ -281,7 +281,8 @@ feed 3h https://www.aghoststorycomic.com/comic/rss define_group=Web_Comic
 feed 3h https://www.whompcomic.com/comic/rss define_group=Web_Comic
 feed 3h https://www.cuttimecomic.com/comic/rss define_group=Web_Comic
 feed 3h https://www.vgcats.com/super/se.rdf.xml define_group=Web_Comic
-feed 3h https://w18.one-punchman.com/feed
+feed 3h https://w18.one-punchman.com/ define_group=Web_Comic
+feed 3h https://homestuck2.com/story/rss define_group=Web_Comic
 
 # "Educational"
 feed 3h https://what-if.xkcd.com/feed.atom define_group=Educational
@@ -296,9 +297,9 @@ feed 3h https://www.megabeets.net/feed/ define_group=Cyber_Security
 
 # Reverse_Engineering
 feed 3h https://doar-e.github.io/feeds/atom.xml define_group=Reverse_Engineering
-feed 3h https://dustri.org/b/rss.xml
-feed 3h https://www.airs.com/blog/feed/atom
-feed 3h https://news.ycombinator.com/rss
+feed 3h https://dustri.org/b/rss.xml define_group=Reverse_Engineering
+feed 3h https://www.airs.com/blog/feed/atom define_group=Reverse_Engineering
+feed 3h https://news.ycombinator.com/rss define_group=Reverse_Engineering
 
 # Podcasts
 feed 3h https://feeds.simplecast.com/cYQVc__c define_group=Podcast
