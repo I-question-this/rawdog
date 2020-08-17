@@ -282,6 +282,7 @@ feed 3h https://www.whompcomic.com/comic/rss define_group=Web_Comic
 feed 3h https://www.cuttimecomic.com/comic/rss define_group=Web_Comic
 feed 3h https://www.vgcats.com/super/se.rdf.xml define_group=Web_Comic
 feed 3h https://read.one-punchman.com/ define_group=Web_Comic
+feed 3h https://stillinthesimulation.com/feed/ define_group=Web_Comic
 feed 3h https://homestuck2.com/story/rss define_group=Web_Comic
 
 # "Educational"
