@@ -6,6 +6,7 @@ My copy of the Rawdog RSS reader with my configs and styles.
 * This folder contains a style and script that I use to read the html outout from Rawdog.
 * The `templates/` folder contains the nessessary global and item templates, and the `style.css` stylesheet is used.
 * All the hard work done by [Adam Sampson](http://offog.org).
+* More hard work was done by [Josh Wainwright](https://github.com/joshaw)j
 * More info on Rawdog at the [website](http://offog.org/code/rawdog.html).
 
 To Install
@@ -13,7 +14,7 @@ To Install
 
 This folder is just my `.rawdog` folder as a git repo. So
 
-    cd && git clone https://github.com/jaw42/rawdog .rawdog
+    cd && git clone https://github.com/I-question-this/rawdog .rawdog
 
 and you'll be away. Of course, that'll leave you with all of my feeds. These are stored in the `config` file. Remove them and add your own.
 
