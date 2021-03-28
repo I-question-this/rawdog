@@ -288,7 +288,7 @@ feed 3h http://thecodelesscode.com/rss define_group=Web_Comic
 feed 3h https://what-if.xkcd.com/feed.atom define_group=Educational
 
 # Linux
-feed 3h https://www.archlinux.org/feeds/news/ define_group=Linux
+feed 3h https://archlinux.org/feeds/news/ define_group=Linux
 feed 3h https://wiki.archlinux.org/index.php?title=Special:RecentChanges&feed=rss define_group=Linux
 
 # Cyber Security
@@ -300,6 +300,8 @@ feed 3h https://www.airs.com/blog/feed/atom define_group=Hacking
 
 # Hacker News -- Generates a lot of articles
 feed 3h https://news.ycombinator.com/rss define_group=Hacker_News
+# Slash Dot -- Generates a lot of articles
+feed 3h http://rss.slashdot.org/Slashdot/slashdotMain define_group=Slash_Dot
 # Reverse_Engineering
 
 # Podcasts
