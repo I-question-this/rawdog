@@ -288,8 +288,8 @@ feed 3h http://thecodelesscode.com/rss define_group=Web_Comic
 feed 3h https://what-if.xkcd.com/feed.atom define_group=Educational
 
 # Linux
-feed 3h https://archlinux.org/feeds/news/ define_group=Linux
-feed 3h https://wiki.archlinux.org/index.php?title=Special:RecentChanges&feed=rss define_group=Linux
+feed 1h https://archlinux.org/feeds/news/ define_group=Linux
+feed 1h https://wiki.archlinux.org/index.php?title=Special:RecentChanges&feed=rss define_group=Linux
 
 # Cyber Security
 feed 3h https://www.megabeets.net/feed/ define_group=Hacking
