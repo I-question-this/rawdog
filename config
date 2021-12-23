@@ -267,7 +267,7 @@ feed 3h http://sarahcandersen.com/rss define_group=Web_Comic
 feed 3h http://www.threewordphrase.com/rss.xml define_group=Web_Comic
 feed 3h http://hyperboleandahalf.blogspot.com/feeds/posts/default define_group=Web_Comic
 feed 3h https://www.smbc-comics.com/comic/rss define_group=Web_Comic
-feed 3h http://phdcomics.com/gradfeed.php define_group=Web_Comic
+feed 3h https://phdcomics.com/gradfeed.php define_group=Web_Comic
 feed 3h https://xkcd.com/atom.xml define_group=Web_Comic
 feed 3h https://explainxkcd.com/rss.xml define_group=Web_Comic
 feed 3h https://pbfcomics.com/feed/ define_group=Web_Comic
@@ -284,6 +284,8 @@ feed 3h https://stillinthesimulation.com/feed/ define_group=Web_Comic
 feed 3h https://homestuck2.com/story/rss define_group=Web_Comic
 feed 3h http://thecodelesscode.com/rss define_group=Web_Comic
 feed 3h https://www.kochab-comic.com/comic/rss define_group=Web_Comic
+feed 3h http://www.ctccomic.com/comic/rss define_group=Web_Comic
+feed 3h https://www.patrikthevampire.com/comic/rss define_group=Web_Comic
 
 # "Educational"
 feed 3h https://what-if.xkcd.com/feed.atom define_group=Educational
