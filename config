@@ -286,7 +286,10 @@ feed 3h http://thecodelesscode.com/rss define_group=Web_Comic
 feed 3h https://www.kochab-comic.com/comic/rss define_group=Web_Comic
 feed 3h http://www.ctccomic.com/comic/rss define_group=Web_Comic
 feed 3h https://www.patrikthevampire.com/comic/rss define_group=Web_Comic
-feed 3h https://www.raruurien.com/rss.php define_group=Web_Comic
+feed 3h https://www.raruurien.com/comic/rss define_group=Web_Comic
+feed 3h https://www.sanitycircus.com/sanity-circus/rss define_group=Web_Comic
+feed 3h https://www.lilithword.com/comic/rss define_group=Web_Comic
+feed 3h https://www.awakencomic.com/rss.php define_group=Web_Comic
 
 # "Educational"
 feed 3h https://what-if.xkcd.com/feed.atom define_group=Educational
